@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 CSC413 - Tanks
 
 Marcus Mertilien <br />
@@ -36,3 +37,6 @@ H:			Move Right<br />
 Space:			Shoot<br />
 
 
+=======
+# TankGame
+>>>>>>> refs/remotes/origin/master
