@@ -2,13 +2,10 @@
 CSC413 - Tanks
 
 Marcus Mertilien <br />
-student id: 916638845 <br />
 email: marcusmertilien@gmail.com <br />
 
 
 Ben Clark <br />
-student id: 917215044<br />
-email: thecalestonrift@gmail.com<br />
 
 TankWars.jar file provided for easy game play.<br />
 Be sure to have at least Java SE Runtime Environment 8 installed.<br />
